@@ -1,0 +1,14 @@
+{
+  "item.model_tools.model_hammer": "Model Hammer",
+
+  "key.category.model_tools.3d_models": "3D Models",
+  "key.model_tools.place": "Place",
+  "key.model_tools.undo": "Undo",
+  "key.model_tools.scale": "Scale",
+  "key.model_tools.rotate": "Rotate",
+  "key.model_tools.translate": "Move",
+  "key.model_tools.x_axis": "X-Axis",
+  "key.model_tools.y_axis": "Y-Axis",
+  "key.model_tools.z_axis": "Z-Axis",
+  "key.model_tools.toggle_view": "Toggle View"
+}
