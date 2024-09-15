@@ -79,3 +79,23 @@
 
 <h3>Changing Model Appearance</h3>
 <p>By default, models appear as semi-transparent white bounding boxes to minimize lag. Press <strong>V</strong> to toggle between this view and a more detailed block preview of the model.</p>
+
+## Feature Showcase
+
+Below are screenshots demonstrating some of the key features of this mod.
+
+### Rotating
+![Rotating](./images/rotating.png)
+The interface when rotating the model. The currently selected axis of rotation is the y-axis, which is highlighted green.
+
+### Scaling
+![Scaling](./images/scaling.png)
+The interface when scaling the model. All axes are selected and highlighted, meaning the model will scale uniformly.
+
+### Translating
+![Translating](./images/translating.png)
+The interface when translating the model. The currently selected axis of translation is the y-axis.
+
+### Placing
+![Placing](./images/placing.png)
+The model after it has been placed. Textures and colors are mapped accurately, and the shape is true to the preview.
